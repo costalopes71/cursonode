@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "cursonode",
+  "description": "repositorio do curso de nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/costalopes71/cursonode.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "npm",
+    "yarn"
+  ],
+  "author": "Joao Lopes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/costalopes71/cursonode/issues"
+  },
+  "homepage": "https://github.com/costalopes71/cursonode#readme"
+}
