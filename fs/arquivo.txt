@@ -1,0 +1,1 @@
+Criando um arquivo de texto com a api de fs do NodeJS
